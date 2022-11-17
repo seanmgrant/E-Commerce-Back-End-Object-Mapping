@@ -10,7 +10,8 @@ This is a back end for an e-commerce site.
 
 
 ## Featuring 
-API
-Express.js
-Sequeleze 
-MySQL
+API      
+Express.js    
+Sequeleze           
+MySQL    
+    
