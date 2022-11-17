@@ -5,7 +5,7 @@ https://drive.google.com/file/d/1JECVgE5YcqLfbY22bgHmrUMadDCOVRi_/view?usp=shari
 
 ## Description
 
-This is a back end for an e-commerce site. 
+This is a back end for an e-commerce website.
 
 
 
